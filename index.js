@@ -1,9 +1,3 @@
-
-
-
-
-
-
 // applying click event to all drums
 
 var drumLen = document.querySelectorAll(".drum").length;
