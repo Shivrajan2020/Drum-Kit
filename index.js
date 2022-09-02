@@ -1,7 +1,6 @@
 
 
-// Shubham Gupta 
-// Insta-ID : sgupta078
+
 
 
 
@@ -97,5 +96,3 @@ function buttonAnimation(cuurentKey){
 
 
 
-// Shubham Gupta 
-// Insta-ID : sgupta078
